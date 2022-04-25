@@ -1,0 +1,129 @@
+.p-aktif {
+  border-bottom: #663200 2px solid;
+}
+
+.color-1 {
+  color: #663200;
+}
+
+.color-4 {
+  color: #11b91f;
+}
+
+.ml-1 {
+  margin-left: 100px;
+}
+
+.nav-color-1 {
+  color: #663200;
+}
+
+.nav-color-1:hover {
+  color: #330000;
+}
+
+.font-1 {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.p-navlink {
+  text-decoration: none;
+  margin-bottom: 5px;
+  padding: 0.5rem 1rem;
+}
+
+.mt-10 {
+  margin-top: 80px;
+}
+
+.icon-navbar {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+.head {
+  border-bottom: #663200 1px solid;
+}
+.foot {
+  border-top: #663200 1px solid;
+}
+
+.btn-1 {
+  background-color: #663200;
+  color: white;
+}
+
+.btn-1:hover {
+  background-color: #330000;
+  color: white;
+}
+
+.gmbr-p {
+  width: auto;
+  height: auto;
+}
+
+.gmbr-p:hover {
+  transform: scale(1.05, 1.05);
+  transition: 1s;
+}
+
+.p-search {
+  border: #663200 1px solid;
+  color: #663200;
+}
+
+.p-btn-search {
+  border: #330000 1px solid;
+  color: #663200;
+}
+
+.p-btn-search:hover {
+  background-color: #663200;
+  color: white;
+}
+
+.jumbotron img {
+  width: 150px;
+  border: 5px solid #666;
+}
+
+hr {
+  width: 250px;
+  border-top: 3px solid #999;
+}
+
+section {
+  min-height: 600px;
+}
+
+.portfolio {
+  background-color: #eee;
+}
+
+.contact {
+  min-height: 800px;
+}
+
+.quantity {
+  display: flex;
+  justify-content: center;
+  width: 10%;
+}
+
+.no-border {
+  border: none;
+  outline: none;
+}
+
+.bgcolor-2 {
+  background-color: rgb(198, 202, 206);
+}
+
+.color-4 {
+  color: aqua;
+}
